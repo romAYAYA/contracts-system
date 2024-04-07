@@ -1,0 +1,8 @@
+﻿Django
+django-cors-headers
+djangorestframework
+psycopg2-binary
+python-dotenv
+requests
+djangorestframework-simplejwt
+drf-yasg
